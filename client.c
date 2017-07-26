@@ -7,7 +7,7 @@
 int main()
 {
 	int cfd;
-	int recbyte;
+	int recbyte;111
 	int sin_size;
 	char buffer[1024] = {0};
 
